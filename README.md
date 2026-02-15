@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas – Análise de Desempenho Comercial (Excel)
+# 📊 Dashboard de Vendas – Analise de Desempenho Comercial (Excel)
 
 ## 📌 Descrição do Projeto
 Este projeto consiste no desenvolvimento de um **dashboard de vendas em Excel**, criado a partir de uma **base de dados fictícia da Microsoft**, com foco em **análise de desempenho comercial** e **apoio à tomada de decisão estratégica**.
